@@ -1,0 +1,12 @@
+{
+  "app_name": "ocp-advisor",
+  "src_hash": "a764354d40638ce435119d37927e9848a889d144",
+  "src_tag": "",
+  "src_branch": "prod-beta",
+  "patternfly_dependencies": ["@patternfly/react-core@4.128.2","@patternfly/react-table@4.27.24"],
+  "travis": {
+    "event_type": "push",
+    "build_number": "17",
+    "build_web_url": "https://travis-ci.com/RedHatInsights/ocp-advisor-frontend/builds/230596034"
+  }
+}
