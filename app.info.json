@@ -1,12 +1,12 @@
 {
   "app_name": "ocp-advisor",
-  "src_hash": "783f1f8ef7f29aa0399cf19aace35d8cd5941b67",
+  "src_hash": "59e0182a83f6c0de6f7eac586194c6858cb9d7ad",
   "src_tag": "",
   "src_branch": "master",
-  "patternfly_dependencies": ["@patternfly/react-core@4.128.2","@patternfly/react-table@4.27.24"],
+  "patternfly_dependencies": ["@patternfly/react-core@4.135.0","@patternfly/react-table@4.29.0"],
   "travis": {
     "event_type": "push",
-    "build_number": "33",
-    "build_web_url": "https://app.travis-ci.com/RedHatInsights/ocp-advisor-frontend/builds/231919367"
+    "build_number": "42",
+    "build_web_url": "https://app.travis-ci.com/RedHatInsights/ocp-advisor-frontend/builds/232516902"
   }
 }
