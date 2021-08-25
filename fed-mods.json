@@ -1,10 +1,10 @@
 {
     "ocpAdvisor": {
         "entry": [
-            "/beta/apps/ocp-advisor/ocpAdvisor.7692e8850d2b036fcaea.js"
+            "/beta/apps/ocp-advisor/ocpAdvisor.2d02cbe5b7c81c9f9373.js"
         ],
         "modules": [
-            "/beta/apps/ocp-advisor/js/412.8def47b7aa84e081b354.js"
+            "/beta/apps/ocp-advisor/js/412.47c8de4a7f9c77629ae1.js"
         ]
     }
 }
