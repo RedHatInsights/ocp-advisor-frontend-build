@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkocp_advisor_frontend=self.webpackChunkocp_advisor_frontend||[]).push([[661],{52661:(e,n,r)=>{r.d(n,{Z:()=>u});var t=r(2095),a=r(85962),l=r(24561),c=r(93264),o=r.n(c);const u=function(){return o().createElement(t.Card,null,o().createElement(a.CardBody,null,o().createElement(l.aV,null)))}}}]);
+//# sourceMappingURL=../sourcemaps/661.be11cc4d241b6188f33427467e6a90a7.js.map
