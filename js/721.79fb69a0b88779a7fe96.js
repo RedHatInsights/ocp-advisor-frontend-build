@@ -1,2 +1,0 @@
-(self.webpackChunkocp_advisor_frontend=self.webpackChunkocp_advisor_frontend||[]).push([[721],{6288:(e,n,a)=>{"use strict";a.r(n),a.d(n,{default:()=>t});var o=a(5697),p=a.n(o),r=a(3264),s=a.n(r),c=function(e){return s().createElement("span",{className:"sample-component"}," ",e.children," ")};c.displayName="SampleComponent",c.propTypes={children:p().oneOfType([p().arrayOf(p().node),p().node])};const t=c}}]);
-//# sourceMappingURL=../sourcemaps/721.fd7359ce8d3528a5153b.js.map
