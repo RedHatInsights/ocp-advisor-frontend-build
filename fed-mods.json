@@ -1,11 +1,11 @@
 {
     "ocpAdvisor": {
         "entry": [
-            "/apps/ocp-advisor/ocpAdvisor.2fc1b0274ea8e7f216a4.js"
+            "/apps/ocp-advisor/ocpAdvisor.73ae9bb17dabcfee70d6.js"
         ],
         "modules": [
-            "/apps/ocp-advisor/js/224.2fc1b0274ea8e7f216a4.js",
-            "/apps/ocp-advisor/css/224.422134e5695d3acf99a9.css"
+            "/apps/ocp-advisor/js/45.73ae9bb17dabcfee70d6.js",
+            "/apps/ocp-advisor/css/45.00e335d466dd9d93f4d9.css"
         ]
     }
 }
