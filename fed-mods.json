@@ -1,11 +1,11 @@
 {
-    "ocpAdvisor": {
-        "entry": [
-            "/apps/ocp-advisor/ocpAdvisor.74b3f4ffc32fb49b1c07.js"
-        ],
-        "modules": [
-            "/apps/ocp-advisor/js/45.74b3f4ffc32fb49b1c07.js",
-            "/apps/ocp-advisor/css/45.00e335d466dd9d93f4d9.css"
-        ]
-    }
+  "name": "ocpAdvisor",
+  "version": "1.0.0",
+  "extensions": [],
+  "registrationMethod": "callback",
+  "baseURL": "/apps/ocp-advisor/",
+  "loadScripts": [
+    "ocpAdvisor.38507358a1cbad0d27e0.js"
+  ],
+  "buildHash": "38507358a1cbad0d27e08840ba1e2109"
 }
