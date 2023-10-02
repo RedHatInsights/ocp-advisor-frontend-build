@@ -5,7 +5,7 @@
   "registrationMethod": "callback",
   "baseURL": "/beta/apps/ocp-advisor/",
   "loadScripts": [
-    "ocpAdvisor.d3ce7097b1d08fdeeb14.js"
+    "ocpAdvisor.21a0ea17f0479f706083.js"
   ],
-  "buildHash": "d3ce7097b1d08fdeeb144393d61d8839"
+  "buildHash": "21a0ea17f0479f7060832713a4565679"
 }
