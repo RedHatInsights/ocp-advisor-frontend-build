@@ -1,14 +1,14 @@
 {
   "app_name": "ocp-advisor",
   "node_version": "unknown",
-  "src_hash": "d36e4340e04f03810f395d97655eefe9e4bcbada",
+  "src_hash": "273f87a14c78f346b743bb92e2c1666070708fea",
   "src_tag": "",
   "src_branch": "master",
-  "patternfly_dependencies": ["@patternfly/react-core@5.2.0","@patternfly/react-icons@5.2.0","@patternfly/react-table@5.2.0"],
-  "rh_cloud_services_dependencies": ["@redhat-cloud-services/frontend-components-advisor-components@1.0.18","@redhat-cloud-services/frontend-components-charts@3.2.6","@redhat-cloud-services/frontend-components-notifications@4.1.0","@redhat-cloud-services/frontend-components-translations@3.2.7","@redhat-cloud-services/frontend-components-utilities@4.0.7","@redhat-cloud-services/frontend-components@4.2.3"],
+  "patternfly_dependencies": ["@patternfly/react-core@5.2.3","@patternfly/react-icons@5.2.1","@patternfly/react-table@5.2.4"],
+  "rh_cloud_services_dependencies": ["@redhat-cloud-services/frontend-components-advisor-components@1.0.18","@redhat-cloud-services/frontend-components-charts@3.2.6","@redhat-cloud-services/frontend-components-notifications@4.1.0","@redhat-cloud-services/frontend-components-translations@3.2.7","@redhat-cloud-services/frontend-components-utilities@4.0.7","@redhat-cloud-services/frontend-components@4.2.5"],
   "travis": {
     "event_type": "push",
-    "build_number": "2649",
-    "build_web_url": "https://app.travis-ci.com/RedHatInsights/ocp-advisor-frontend/builds/269490331"
+    "build_number": "2673",
+    "build_web_url": "https://app.travis-ci.com/RedHatInsights/ocp-advisor-frontend/builds/269562919"
   }
 }
