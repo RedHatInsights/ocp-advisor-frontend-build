@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkocpAdvisor=self.webpackChunkocpAdvisor||[]).push([[8178],{60167:(e,s,o)=>{o.r(s),o.d(s,{default:()=>g});var r=o(28416),u=o.n(r),t=o(45697),c=o.n(t),l=o(89002),n=o(74759);const p=({useLogger:e})=>u().createElement(n.RW,null,u().createElement(l.Z,{useLogger:e}));p.propTypes={useLogger:c().bool},p.defaultProps={useLogger:!1};const g=p}}]);
+//# sourceMappingURL=../../sourcemaps/exposed-./RootApp.3cb8b9cf212097dfb32581ebd03ccc5c.js.map
