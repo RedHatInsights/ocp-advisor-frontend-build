@@ -1,0 +1,2 @@
+(self.webpackChunkocpAdvisor=self.webpackChunkocpAdvisor||[]).push([[3663],{31495:(e,i,r)=>{"use strict";r.d(i,{Mi:()=>s,Uv:()=>a,wk:()=>l,z1:()=>o});var n=r(28416),t=r(80164);const a={isManagedSidebar:!1,isSidebarOpen:!1,onSidebarToggle:()=>null,width:null,height:null,getBreakpoint:t.iu,getVerticalBreakpoint:t.xb},o=n.createContext(a),s=o.Provider,l=o.Consumer},80897:()=>{},92084:()=>{}}]);
+//# sourceMappingURL=../sourcemaps/3663.458d3adfd3cfedd419934d64c30c9fba.js.map
