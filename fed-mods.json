@@ -1,1 +1,1 @@
-{"name":"ocpAdvisor","version":"1.0.0","extensions":[],"registrationMethod":"custom","baseURL":"/beta/apps/ocp-advisor/","loadScripts":["ocpAdvisor.de6a322bd5548840a029.js"],"buildHash":"0fc1417fd760d4d9d29c3f3c7a516369"}
+{"name":"ocpAdvisor","version":"1.0.0","extensions":[],"registrationMethod":"custom","baseURL":"/beta/apps/ocp-advisor/","loadScripts":["ocpAdvisor.46dac1296a0a0421624d.js"],"buildHash":"63b1f8ee9bb6ba7f64d62f88edba2f8f"}
