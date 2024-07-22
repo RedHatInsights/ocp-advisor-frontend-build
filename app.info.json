@@ -1,14 +1,14 @@
 {
   "app_name": "ocp-advisor",
   "node_version": "unknown",
-  "src_hash": "286bb0b4f1fabdebbacd9a1ac4e067bc83cbf20c",
+  "src_hash": "29855604fd05bffc98919e9a3391114ca0dd8894",
   "src_tag": "",
   "src_branch": "master",
-  "patternfly_dependencies": ["@patternfly/react-core@5.3.1","@patternfly/react-icons@5.3.2","@patternfly/react-table@5.2.4"],
+  "patternfly_dependencies": ["@patternfly/react-core@5.3.4","@patternfly/react-icons@5.3.2","@patternfly/react-table@5.2.4"],
   "rh_cloud_services_dependencies": ["@redhat-cloud-services/frontend-components-advisor-components@1.0.20","@redhat-cloud-services/frontend-components-charts@3.2.6","@redhat-cloud-services/frontend-components-notifications@4.1.0","@redhat-cloud-services/frontend-components-translations@3.2.8","@redhat-cloud-services/frontend-components-utilities@4.0.13","@redhat-cloud-services/frontend-components@4.2.12"],
   "travis": {
     "event_type": "push",
-    "build_number": "2853",
-    "build_web_url": "https://app.travis-ci.com/RedHatInsights/ocp-advisor-frontend/builds/271427717"
+    "build_number": "2855",
+    "build_web_url": "https://app.travis-ci.com/RedHatInsights/ocp-advisor-frontend/builds/271531489"
   }
 }
